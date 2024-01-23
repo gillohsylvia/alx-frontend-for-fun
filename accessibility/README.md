@@ -432,7 +432,7 @@ You can use it with this `00-index.html` file:
   </body>
 </html>
 ```
-Images archive
+[Images archive](images.zip)
 
 Let’s start by the “Work” section:
 
